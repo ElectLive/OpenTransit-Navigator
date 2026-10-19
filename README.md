@@ -12,7 +12,7 @@
 
 - 边界限定：首期 Demo 严格锁定杭州市区（公交 + 地铁），暂不包含跨城火车与公共自行车。
 - 技术验证目标：跑通 CPTOND-2025 数据转换 -> OTP 本地 Docker 部署 -> 开启调试模式返回至少 10 条方案，并保留多换乘路线。
-- 详细执行清单请见 `/docs/roadmap.md`，发起人正在整理提交中。
+- 详细执行清单请见 `/docs/roadmap.md`。
 
 ## 贡献指南与权益共享
 
@@ -25,7 +25,7 @@
 
 ## 合规与许可声明 (待核实)
 
-1. 代码开源协议：本项目采用 MIT License（详见 LICENSE 文件）。
+1. 代码开源协议：本项目采用 MIT License（详见 [LICENSE 文件](https://github.com/ergjk/OpenTransit-Navigator/blob/main/LICENSE)）。
 2. 数据许可：拟使用 CPTOND-2025、OSM、GTFS 数据。发起人正在核查相关数据的下载与二次分发许可，目前状态：待核实。严禁将本项目用于违规商业用途。
 
 ## 发起人承诺
