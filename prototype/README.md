@@ -3,7 +3,7 @@
 本目录包含项目首期技术验证阶段的低保真 UI 线框图。设计核心目标为**信息密度优先**与**参数透明化**，摒弃商业地图大圆角、大留白的视觉风格，专为交通极客与需要深度自定义路线的用户设计。
 
 ## 🔗 设计源文件
-- **[Figma 在线预览链接](https://www.figma.com/design/awdQ2NUjDFNF3jj6nolsbH/Untitled?node-id=0-1&t=0qp0yCrp10e0UTkg-1)**(请在此处粘贴你的 Figma 链接) *(权限：Anyone with the link can view)*
+- **[Figma 在线预览链接](https://www.figma.com/design/awdQ2NUjDFNF3jj6nolsbH/Untitled?node-id=0-1&t=0qp0yCrp10e0UTkg-1)** *(权限：Anyone with the link can view)*
 
 ## 📁 页面文件说明(以下纯属瞎编)
 
