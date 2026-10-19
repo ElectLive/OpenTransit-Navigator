@@ -5,7 +5,7 @@
 ## 🔗 设计源文件
 - **[Figma 在线预览链接](https://www.figma.com/design/awdQ2NUjDFNF3jj6nolsbH/Untitled?node-id=0-1&t=0qp0yCrp10e0UTkg-1)** *(权限：Anyone with the link can view)*
 
-## 📁 页面文件说明(以下纯属瞎编)
+## 📁 页面文件说明(注：以下字段映射为前期产品构想，具体实现以 OTP 联调结果为准)
 
 ### 1. `01-search-params.png` (搜索与参数配置页)
 - **核心功能**：起终点输入、时间选择器、高级路由参数折叠面板（默认展开）。
