@@ -12,7 +12,7 @@
 
 - 边界限定：首期 Demo 严格锁定杭州市区（公交 + 地铁），暂不包含跨城火车与公共自行车。
 - 技术验证目标：跑通 CPTOND-2025 数据转换 -> OTP 本地 Docker 部署 -> 开启调试模式返回至少 10 条方案，并保留多换乘路线。
-- 详细执行清单请见 `/docs/roadmap.md`。
+- 详细执行清单请见 [docs/roadmap.md](https://github.com/ergjk/OpenTransit-Navigator/blob/main/docs/roadmap.md)。
 
 ## 贡献指南与权益共享
 
